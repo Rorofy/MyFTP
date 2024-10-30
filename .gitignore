@@ -1,0 +1,7 @@
+.vscode/
+.dist/
+myftp
+myftp_client
+test_ftp.sh
+test/
+*.o
